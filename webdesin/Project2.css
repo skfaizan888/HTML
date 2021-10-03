@@ -125,6 +125,7 @@ figcaption{
 .Heading-16{
     display: flex;
     flex-wrap: wrap;
+    padding-left: 200px;
     
 }
 .Heading-17{
