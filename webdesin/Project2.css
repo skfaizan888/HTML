@@ -3,7 +3,7 @@
     background-color: rgba(197, 197, 221, 0.2) ;
 }
 .Heading-01{
-    background-color: #45c4b1;
+    background-color: #46c5b2;
     color: #fff;
     padding: 15px;
       
@@ -39,7 +39,7 @@ nav{
     text-decoration: none;
     padding: 15;
     margin: 20px;
-    color: rgba(20, 20, 50, 0.5);
+    color: rgba(20, 20, 50, 0.9);
     
 }
 .Heading-06:hover{
@@ -49,7 +49,7 @@ nav{
     padding: 10px;
 }
 .Heading-07{
-    color: rgba(20, 20, 50, 0.5);
+    color: rgba(20, 20, 50, 0.9);
     position: absolute;
     left: 1230px;
     font-size: 20px;
@@ -57,7 +57,7 @@ nav{
     
 }
 .Heading-08{
-    color: rgba(20, 20, 50, 0.5);
+    color: rgba(20, 20, 50, 0.9);
     position: absolute;
     left: 1300px;
     font-size: 20px;
@@ -118,6 +118,7 @@ figcaption{
     color: #fff;
    padding: 10px;
    border-radius: 20px;
+   border: 1px solid black;
 }
 
 .Heading-16{
@@ -142,10 +143,10 @@ figcaption{
     width: 450px;
 }
 .Heading-21{
-    border: 1px solid rgba(20, 20, 50, 0.1);
+    border: 1px solid rgba(20, 20, 50, 0.2);
     padding: 40px;
     margin: 20px;
-    background-color: rgba(217, 217, 223, 0.1) ;
+    background-color: rgba(217, 217, 223, 0.5) ;
 }
 .Heading-23 a{
     color: #45c4b1;
@@ -242,4 +243,13 @@ figcaption{
 }
 .Heading-40 a{
     color: #40bdaa;
+}
+.pow{
+    color: #40bdaa;
+    text-align: center;
+}
+
+.pow strong{
+    color: rgb(252, 96, 39);
+    padding: 10px;
 }
